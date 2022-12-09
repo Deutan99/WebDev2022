@@ -1,5 +1,5 @@
 # WebDev2022
-- 포트폴리오 :
+- 포트폴리오 : <https://deutan99.github.io/blog/>
 - 개인 블로그 : <https://deutan99.github.io/>
 # 기초웹개발론
 1. 1일 1커밋하기
