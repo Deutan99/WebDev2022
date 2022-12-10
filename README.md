@@ -1,6 +1,7 @@
 # WebDev2022
 - 포트폴리오 : <https://deutan99.github.io/blog/>
 - 개인 블로그 : <https://deutan99.github.io/>
+- [2022 제 4회 스마트SW AI 경진대회 우수상]
 # 기초웹개발론
 1. 1일 1커밋하기
 2. 매주 프로그래머스 문제 풀기
